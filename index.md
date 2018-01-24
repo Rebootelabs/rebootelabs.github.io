@@ -6,4 +6,4 @@ We just kicked off our work and some awesome internal products are being cooked 
 
 ### Support or Contact
 
-If you want to know more about us, drop a mail to our HR - [Patricia](mailto:psatricia.k@rebootelabs.com)
+If you want to know more about us, drop a mail to our HR - [Patricia](mailto:patricia.k@rebootelabs.com)
