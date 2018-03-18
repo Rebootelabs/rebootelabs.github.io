@@ -9,7 +9,7 @@ We just kicked off our work and some awesome internal products are being cooked 
 If you want to know more about us, drop a mail to our HR - [Patricia](mailto:patricia.k@rebootelabs.com) or [Robert](mailto:robert.n@rebootelabs.com).
 
 ### Rest of the Team.
-Patricia C Knox - Network Administrator
 John Richards - DB Admin
+Patricia C Knox - Network Administrator
 Bob marks _ HR Manager
 Andy Butler - Sales Head
