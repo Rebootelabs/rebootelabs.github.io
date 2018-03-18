@@ -10,6 +10,10 @@ If you want to know more about us, drop a mail to our HR - [Patricia](mailto:pat
 
 ### Rest of the Team.
 John Richards - DB Admin
+
 Patricia C Knox - Network Administrator
+
 Bob marks _ HR Manager
+
 Andy Butler - Sales Head
+
