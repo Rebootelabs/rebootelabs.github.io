@@ -13,7 +13,7 @@ John Richards - DB Admin
 
 Patricia C Knox - Network Administrator
 
-Bob marks _ HR Manager
+Bob Marks - HR Manager
 
 Andy Butler - Sales Head
 
